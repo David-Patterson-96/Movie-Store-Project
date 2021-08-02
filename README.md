@@ -1,0 +1,2 @@
+# Movie-Store-Project
+This was the final project for a C++ II programming class I attended at Copper Mountain Community College and was created with Microsoft Visual Studio. The purpose of this C++ Movie Store program is to calculate the amount of DVD and/or Blu-Ray movies that the user have ordered and the total price of said order with the number of items sold. If the user has bought over $50 of movies in total, then the user will receive free shipping.
