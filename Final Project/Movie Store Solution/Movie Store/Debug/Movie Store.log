@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  movieTitle.cpp
+  MovieInfo.cpp
+  Movie Store.cpp
+d:\c++2\final project\movie store solution\movie store\movie store.cpp(51): warning C4101: 'choice': unreferenced local variable
+d:\c++2\final project\movie store solution\movie store\movie store.cpp(31): warning C4101: 'blurayprice': unreferenced local variable
+d:\c++2\final project\movie store solution\movie store\movie store.cpp(32): warning C4101: 'mybluray': unreferenced local variable
+d:\c++2\final project\movie store solution\movie store\movie store.cpp(52): warning C4101: 'ch': unreferenced local variable
+d:\c++2\final project\movie store solution\movie store\movie store.cpp(176): warning C4101: 'inStock': unreferenced local variable
+  Generating Code...
+  Movie Store.vcxproj -> D:\C++2\Final Project\Movie Store Solution\Debug\Movie Store.exe
